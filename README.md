@@ -1,7 +1,7 @@
 
 # 🔌 Neovim config 🔌
 
-(basically my `~/.config/nvim` folder...)
+(basically my `~/.config/nvim` directory...)
 
 ## 📂 Download Neovim
 
