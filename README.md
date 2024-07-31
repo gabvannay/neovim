@@ -29,10 +29,10 @@ winget install --id=Neovim.Neovim -s winget
 
 ```bash
 # Linux
-git clone https://github.com/gabvannay/Neovim-Customization.git ~/.config/nvim
+git clone https://github.com/gabvannay/neovim.git ~/.config/nvim
 
 # Windows
-git clone https://github.com/gabvannay/Neovim-Customization.git $env:LOCALAPPDATA\nvim
+git clone https://github.com/gabvannay/neovim.git $env:LOCALAPPDATA\nvim
 ```
 
 And then launch Neovim as usual with `nvim` and the plugins will install automatically
